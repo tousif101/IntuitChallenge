@@ -1,4 +1,5 @@
 <?php
+
 $name       = @trim(stripslashes($_POST['name'])); 
 $from       = @trim(stripslashes($_POST['email'])); 
 $subject    = @trim(stripslashes($_POST['subject'])); 
