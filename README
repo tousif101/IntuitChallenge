@@ -1,0 +1,21 @@
+Synopsis: This web app informs people who have recently gotten married, bought a house, or had a child about the tax implications
+regarding their recent life events. This stems from a database established in MySQL that holds a table of information regarding a 
+single person. This includes their name, address, homeowner status, marital status, and upcoming first child status. This would
+take information from the database and generate an email with a php script and direct them to the specified link on our website
+that relates to their situation. For example, a man who owns a home would get directed to our home owner tax implications site
+whereas someone who recently had a child would get the tax implications of having a child webpage. Does not restrict to 
+just having one status so you can get linked multiple videos. The website itself is written in HTML/CSS/Javascript and used
+a template via Bootstrap. The links regarding the tax implifications contain information derived from the TurboTax website
+and the internet as well as videos embedded into the HTML page from the TurboTax youtube page. Due to constrains on a lack
+an e-mail server, the back end of our program wasn't able to be tested without paying for a server. 
+
+Motivation: As a potetial opportunity to win the contest, the four of us wanted to gain experience in working as a team
+and enriching our experience in working in hackathon-like activities. Whether we don't win the competition or get an interview,
+we viewed the situation as a win-win to further enrich our knowledge and experience in the development world and the world
+of working under time constrains, as well as how to plan and process our ideas. :)
+
+Contributors: Sadaf Chowdhury : sxc7870@rit.edu, Austin Grabowski : adg4323@rit.edu  , Winston Chang : wkc6735@rit.edu,
+Tousif Chowdhury : tac5780@rit.edu
+
+
+
